@@ -10,8 +10,8 @@ export default function Navbar() {
         </div>
         <div className='flex gap-12 text-md text-zinc-400'>
             <Link href="/Page.js" className='text-black font-medium'>Home</Link>
-            <Link href="#">🟡</Link>
-            <Link href="#">🔴</Link>
+            <Link href="#">About</Link>
+            <Link href="#">Contact</Link>
         </div>
     </nav>
   )
