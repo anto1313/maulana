@@ -29,7 +29,7 @@ export default function Page() {
       <div className="h-[25-rem] items-center rounded-3xl p-10 flex flex-col gap-16 border-2 border-zinc-300 bg-amber-50 shadow-md"><a href="https://github.com/anto1313" target="blank"><Github size={64} strokeWidth={1.5} color="#666666" /></a></div>
     <div className="h-[25-rem] items-center rounded-3xl p-10 flex flex-col gap-16 border-2 border-zinc-300 bg-[url('/bg-body.jpg')] bg-cover shadow-md" >
       <p className="font-semibold text-lg text-zinc-600 text-center">Let's do some collaboration 🟢
-      my tech stack are :<span className="text-sm text-black font-light text-center"> HTML, CSS, Tailwind, Javascript, NextJS and Some NextJS Backend 🤯.</span> </p>
+      my tech stack are :<span className="text-sm text-black font-light text-center"> HTML, CSS, Tailwind, Javascript, NextJS 🤯.</span> </p>
     </div>
    
      </section>
